@@ -1,0 +1,9 @@
+admin
+login
+password
+security
+about
+contact
+home
+info
+index
